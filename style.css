@@ -1,0 +1,41 @@
+/*Heading 1*/
+h1 {
+    background-color: deepskyblue;
+    color: rgb(29, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 8px dashed hotpink;
+    text-shadow: 2px 2px rgb(255, 0, 0);
+}
+/*Main stuff and background*/
+body {
+    color: rgb(45, 126, 72);
+    background-color: rgba(248, 248, 70, 0.8);
+}
+/*Paragraph*/
+p {
+    font-size: 18px;
+    background-color: coral;
+    font-family: "Times New Roman", Times, serif;
+    text-indent: 50px;
+    text-shadow: 1px 1px rgb(106, 218, 162);
+    
+}
+/*Lists*/
+li {
+    background-color: chartreuse;
+    color: rgb(119, 33, 201);
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow: 2px 2px rgb(191, 219, 243);
+}
+a:link {
+color: rgb(0, 0, 0);
+}
+a:visited {
+color: rgb(27, 240, 27);
+}
+a:hover {
+    color: rgb(188, 17, 231);
+}
+a:active{
+color: coral;
+}
